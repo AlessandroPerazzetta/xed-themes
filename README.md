@@ -1,6 +1,6 @@
 # XED custom themes
 
-installation example:
+## installation example:
 curl -fsSLo  ~/.local/share/xed/styles/kat-ng.xml https://raw.githubusercontent.com/AlessandroPerazzetta/xed-themes/main/kat-ng.xml
 
 
